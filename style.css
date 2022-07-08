@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+/* # add custom style */
+.bg-teal{
+    background-color:#18465a !important ;
+}
+.btn-teal{
+    background-color:#18465a !important ;
+}
+.text-teal{
+    background-color: #18465a !important;
+}
+/* *******************CARAOUSEL******** */
+/* .carousel-caption{
+    bottom: auto;
+} */
